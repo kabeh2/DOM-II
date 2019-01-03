@@ -1,4 +1,14 @@
+// Colors
+$white: #ffffff;
+$silver: #c0c0c0;
+$shark: #212529;
+$eastern-blue: #17a2b8;
+$sandy-beach: #ffebcd;
+
 // @mobile: ~"(max-width: 500px)";
+// @include respond(mobile) {
+//   max-width: 500px;
+// }
 
 // Color assignments
 $font-color: $shark;
@@ -6,10 +16,3 @@ $button-bg: $eastern-blue;
 $main-bg: $white;
 $navigation-border: $silver;
 $footer-bg: $sandy-beach;
-
-// Colors
-$white: #ffffff;
-$silver: #c0c0c0;
-$shark: #212529;
-$eastern-blue: #17a2b8;
-$sandy-beach: #ffebcd;
