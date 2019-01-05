@@ -28,6 +28,7 @@
   }
 
   &:hover {
+    transition: all 0.9s;
     background: $white;
     color: $button-bg;
   }
