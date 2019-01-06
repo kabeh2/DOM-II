@@ -1,4 +1,4 @@
-# DOM II - Event Exploration
+# DOM II - Event Exploration (USING SASS NOT LESS)
 
   
 
@@ -18,7 +18,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
   
 
-## Task 2: Set Up LESS Preprocessor
+## Task 2: Set Up LESS Preprocessor (DONE USING SASS INSTEAD)
 
 * [ ] Verify that you have LESS installed correctly by running `lessc -v` in your terminal, if you don't get a version message back, reach out to your project manager for help.
 
